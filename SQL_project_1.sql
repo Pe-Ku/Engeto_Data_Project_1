@@ -194,6 +194,19 @@ JOIN (
 ON t1.min_difference_percent = t2.percent_change
 ORDER BY t1.YEAR;
 
+/*Vyhodnotenie zmeny cien kazdej potraviny v ramci celeho sledovaneho obdobia.*/
+SELECT t1.YEAR, t1.food_name, t1.average_price, t2.average_price, round(((t2.average_price / t1.average_price) * 100 ) - 100, 2) AS percent_change
+FROM (
+	SELECT `YEAR`, food_name, average_price 
+	FROM t_food_price_change
+	WHERE `YEAR` = 2006) t1
+JOIN (
+	SELECT `YEAR`, food_name, average_price
+	FROM t_food_price_change
+	WHERE `YEAR` = 2018) t2
+ON t1.food_name = t2.food_name;
+
+
 /* OTAZKA 4)
  * Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
  * Stlpec average_price_change udava priemerne o kolko % zdrazeli / zlacneli potraviny oproti predoslemu roku. Vo vypocte su zahrnute vsetky skumane potraviny.
