@@ -50,7 +50,11 @@ Je mozne teda konstatovat, ze mzdy rastu v priebehu rokov z dlhodobeho hladiska 
 
 Data ukazuju, ze vseobecne napriec vsetkymi odvetviami je mozne kupit viac l mlieka za priemernu rocnu mzdu v roku 2018 ako v roku 2006. Napriklad v odvetvi Doprava a skladování je mozne si kupit o 155l mlieka viac. Vynimkou je odvetvie Peněžnictví a pojišťovnictví, kde je mozne za priemernu rocnu mzdu v roku 2018 kupit o 34l mlieka menej ako v roku 2006.
 
-Avsak, vseobecne napriec vsetkymi odvetviami je mozne kupit menej kg chleba za priemernu rocnu mzdu v roku 2018 v porovnani s 2006. Napriklad v odvetvi Zdravotní a sociální péče je mozne si kupit o 190kg chleba menej. Vynimkami su odvetvia Ostatní činnosti, Těžba a dobývání, Peněžnictví a pojišťovnictví.
+Napriec vsetkymi odvetviami je tiez mozne kupit viac kg chleba za priemernu rocnu mzdu v roku 2018. Napriklad v odvetvi Zdravotní a sociální péče je mozne si kupit o 190kg chleba viac. Vynimkami su odvetvia Ostatní činnosti, Těžba a dobývání, Peněžnictví a pojišťovnictví (o 241kg menej).
+
+###### Dotaz 2a
+
+Porovnanie mnozstva mlieka a chleba za priemernu rocnu mzdu napriec vsetkymi odvetviami. V roku 2018 je v priemere mozne kupit o 204,73 litrov mlieka viac a 57,32 kg chleba viac, ako v roku 2006.
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
